@@ -53,7 +53,7 @@ header {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('floral_pattern.png'); /* Chemin vers l'image de fleurs de lys vertes */
+    background-image: url('https://img.freepik.com/vecteurs-premium/fleurs-colorees-vecteur-fleurs-feuilles-elegantes-modele-carte-invitation-mariage-aquarelle_181182-50473.jpg?semt=ais_hybrid&w=740'); /* Chemin vers l'image de fleurs de lys vertes */
     background-size: cover; /* Ajuste l'image de fond pour couvrir */
     opacity: 0.6; /* Opacité pour l'effet */
     border-radius: 15px; /* Bords arrondis de l'effet */
